@@ -1,5 +1,5 @@
 
-# HTB VPN
+# ESHARE TROLL
 ![Xig0n](https://img.shields.io/badge/Powered%20by-Xig0n-D04848?style=for-the-badge&logo=cyberdefenders&logoColor=D04848) ![Bash](https://img.shields.io/badge/Python-3.9-596FB7?style=for-the-badge&logo=python&logoColor=FDE767)
 - **Eshare Troll 2024** is a tool to exploit a 0-day vulnerability and allow videos to be sent to the TV server without permissions.
 
@@ -7,8 +7,8 @@
 
 ## 👉 Instalation
 ```bash
-git clone https://github.com/Xig0n/Eshare-Troll2024
-cd Eshare-Troll2024
+git clone https://github.com/Xig0n/eshareTroll
+cd Eshare-Troll
 pip3 install -r requeriments.txt
 python3 eShareTroll.py
 ```

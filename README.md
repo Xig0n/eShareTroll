@@ -16,6 +16,7 @@ python3 eShareTroll.py
 ## 🤷‍♂️ How does it work?
 
 ![HTB-VPN Help Menu](https://i.ibb.co/rt7zb1j/eshare-Troll1.png)
+
 Once the script has been executed we have to complete the fields:
 - Your IP -> Extracted from the `ipconfig` command
 - Remote IP -> The IP of the TV, you can obtain it on eshare
